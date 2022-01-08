@@ -1,0 +1,10 @@
+service:
+  name: midway-http
+  description: 'midway serverless 测试项目'
+
+provider:
+  name: aliyun
+
+custom:
+  customDomain:
+    domainName: auto
